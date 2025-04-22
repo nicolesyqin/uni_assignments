@@ -6,4 +6,4 @@ All projects completed individually. Some have been slightly modified and permis
 
 # Contents
 
-* Ebony_Sales:  Fitting and evaluating a multiple linear regression model to explore how price, clothing line, and season of release affects the quantity of clothing items sold. 
+* Ebony_Sales:  Fitted and evaluated a linear regression model with interaction effects, performed assumption checks, interpreted model outputs and visualized results with ggplot2. 
